@@ -1,7 +1,7 @@
 ## Bookmark Python Server
 
 ### Abstract
-An app for creating a list a URI bookmarks.
+This is an app for creating a list of URI bookmarks.
 
 ### Environment and Technical features
 
